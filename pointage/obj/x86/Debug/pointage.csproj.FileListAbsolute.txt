@@ -1,0 +1,12 @@
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\bin\Debug\pointage.exe
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\bin\Debug\pointage.pdb
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Properties.Resources.resources
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.csproj.GenerateResource.Cache
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.exe
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.pdb
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Login.resources
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Main.resources
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Manage.resources
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Add.resources
+c:\users\tensa-zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.Update.resources
+C:\Users\Tensa-Zangits\documents\visual studio 2010\Projects\pointage\pointage\obj\x86\Debug\pointage.csprojResolveAssemblyReference.cache
